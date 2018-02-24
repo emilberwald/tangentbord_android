@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{39E2626F-3545-4960-A6E8-258AD8476CE5}") = "tangentbord_android", "tangentbord_android\tangentbord_android.androidproj", "{138C44F6-6316-45F0-A828-10280EF191B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|ARM.Build.0 = Debug|ARM
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|ARM.Deploy.0 = Debug|ARM
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|ARM64.Build.0 = Debug|ARM64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|x64.ActiveCfg = Debug|x64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|x64.Build.0 = Debug|x64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|x64.Deploy.0 = Debug|x64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|x86.ActiveCfg = Debug|x86
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|x86.Build.0 = Debug|x86
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Debug|x86.Deploy.0 = Debug|x86
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|ARM.ActiveCfg = Release|ARM
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|ARM.Build.0 = Release|ARM
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|ARM.Deploy.0 = Release|ARM
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|ARM64.ActiveCfg = Release|ARM64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|ARM64.Build.0 = Release|ARM64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|ARM64.Deploy.0 = Release|ARM64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|x64.ActiveCfg = Release|x64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|x64.Build.0 = Release|x64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|x64.Deploy.0 = Release|x64
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|x86.ActiveCfg = Release|x86
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|x86.Build.0 = Release|x86
+		{138C44F6-6316-45F0-A828-10280EF191B6}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52C6C6A-CFD2-4EF0-8EC1-0DA440E9E440}
+	EndGlobalSection
+EndGlobal
