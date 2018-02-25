@@ -144,11 +144,17 @@
     </AntPackage>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Content Include="res\values\strings.xml" />
+    <Content Include="res\layout\keyboard.xml" />
+    <Content Include="res\layout\preview.xml" />
+    <Content Include="res\values\values.xml" />
     <AntBuildXml Include="build.xml" />
-    <AndroidManifest Include="AndroidManifest.xml" />
+    <AndroidManifest Include="AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </AndroidManifest>
     <AntProjectPropertiesFile Include="project.properties" />
-    <JavaCompile Include="src\com\tangentbord_android\tangentbord_android.java" />
+    <Content Include="res\xml\method.xml" />
+    <Content Include="res\xml\qwerty.xml" />
+    <JavaCompile Include="src\com\tangentbord_android\tangentbord_android_service.java" />
   </ItemGroup>
   <Import Project="$(AndroidTargetsPath)\Android.targets" />
   <ImportGroup Label="ExtensionTargets" />

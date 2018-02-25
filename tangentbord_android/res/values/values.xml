@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<string name="app_name">tangentbord_android</string>
+	<string name="tangentbord_android_service">tangentbord_android_service</string>
+	<string name="tangentbord_android_settings">tangentbord_android_settings</string>
+	<string name="subtype_sv_SE">Svenska (SE)</string>
+	<integer name="mode_normal">0</integer>
+	<integer name="mode_shift">1</integer>
+	<integer name="mode_alt">2</integer>
+</resources>
